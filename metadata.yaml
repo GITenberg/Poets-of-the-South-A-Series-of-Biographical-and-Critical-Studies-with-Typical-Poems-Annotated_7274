@@ -1,4 +1,8 @@
 _repo: Poets-of-the-South-A-Series-of-Biographical-and-Critical-Studies-with-Typical-Poems-Annotated_7274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Painter, F. V. N. (Franklin Verzelius Newton)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2403'
     url: http://www.gutenberg.org/2009/agents/2403
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7274#Poets-of-the-South-A-Series-of-Biographical-and-Critical-Studies-with-Typical-Poems-Annotated
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
